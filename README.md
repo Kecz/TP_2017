@@ -10,4 +10,4 @@ Winda posiada limit obciążenie wynoszący 600kg, każdy pasażer waży 70kg. J
 
 Symulator  posiada mechanizm sprawdzający czy winda, po zatrzymaniu się na określonym piętrze, jest pusta. Jeśli tak to po 5 sek. bezczynności winda zjeżdża na najniższe piętro.
 
-
+Projekt został zrealizowany we współpracy z Piotr Winkler - https://github.com/piotrwinkler
